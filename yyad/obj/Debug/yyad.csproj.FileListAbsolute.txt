@@ -1,0 +1,10 @@
+c:\users\lifez\source\repos\yyad\yyad\bin\Debug\yyad.exe.config
+c:\users\lifez\source\repos\yyad\yyad\bin\Debug\yyad.exe
+c:\users\lifez\source\repos\yyad\yyad\bin\Debug\yyad.pdb
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.csprojAssemblyReference.cache
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.Form1.resources
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.Properties.Resources.resources
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.csproj.GenerateResource.cache
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.csproj.CoreCompileInputs.cache
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.exe
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.pdb
