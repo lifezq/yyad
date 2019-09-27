@@ -8,3 +8,5 @@ c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.csproj.GenerateResource.cac
 c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.csproj.CoreCompileInputs.cache
 c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.exe
 c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.pdb
+c:\users\lifez\source\repos\yyad\yyad\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+c:\users\lifez\source\repos\yyad\yyad\obj\Debug\yyad.csproj.CopyComplete
